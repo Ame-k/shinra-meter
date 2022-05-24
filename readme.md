@@ -1,6 +1,6 @@
 ## Requirements: 
 * .NET Core 3.1/6.0
-* external-interface, You can donwload here [external-interface](https://github.com/Ame-k/external-interface).
+* external-interface module. You can donwload here [external-interface](https://github.com/Ame-k/external-interface).
 
 ## How to install & Execute:
 Unzip and copy the folder "shinra-meter" to proxy\mods\
