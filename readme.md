@@ -1,10 +1,10 @@
 ######### README #############
 
-Requirements: 
+## Requirements: 
 .NET Core 3.1/6.0
 external-interface mmodule
 
-How to install & Execute:
+## How to install & Execute:
 Unzip and copy the folder "shinra-meter" to proxy\mods\
 Start/Restart the proxy/toolbox. Shinra will automatically launch together with the toolbox/proxy.
 
