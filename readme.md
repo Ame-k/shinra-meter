@@ -1,6 +1,6 @@
 ## Requirements: 
-.NET Core 3.1/6.0
-external-interface mmodule
+* .NET Core 3.1/6.0
+* external-interface mmodule
 
 ## How to install & Execute:
 Unzip and copy the folder "shinra-meter" to proxy\mods\
