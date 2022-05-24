@@ -1,5 +1,5 @@
 ## Requirements: 
-* .NET Core 3.1/6.0
+* .NET Core desktop runtime version 3.1/6.0
 * external-interface module. You can donwload here: [external-interface](https://github.com/Ame-k/external-interface).
 
 ## How to install & execute:
